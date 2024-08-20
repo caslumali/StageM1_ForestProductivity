@@ -1,5 +1,10 @@
 ### README for Forest Productivity and Degradation Monitoring Project
 
+## Dissertation
+
+The full dissertation titled "Productivité végétale et dégradation forestière : Étude à Paragominas dans le cadre du projet TerrAmaz" is available in this repository. You can view or download it [here](./UE801_Rapport_LucasLima.pdf).
+
+
 ---
 
 #### Overview
