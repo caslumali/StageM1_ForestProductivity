@@ -21,7 +21,7 @@ This repository is structured into several directories and scripts, each respons
 
 #### 1. **`data_analyses` Directory**
 
-The data_analyses directory contains the primary scripts used throughout the research project. These scripts handle data processing, analysis, and the main statistical evaluations.
+This directory contains the primary scripts used throughout the research project. These scripts handle data processing, analysis, and the main statistical evaluations.
 
 - **`EVI_Trend.R`**: Script to compute EVI trends over time using a linear regression model on MODIS data.
 - **`TMF_AnnualObs.R`**: Handles the processing of Tropical Moist Forest (TMF) data to assess annual forest disruptions.
