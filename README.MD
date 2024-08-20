@@ -14,21 +14,21 @@ This repository is structured into several directories and scripts, each respons
 
 ### Repository Structure
 
-#### 1. **Root Directory**
+#### 1. **`data_analyses` Directory**
 
-The root directory contains the primary scripts used throughout the research project. These scripts handle data processing, analysis, and the main statistical evaluations.
+The data_analyses directory contains the primary scripts used throughout the research project. These scripts handle data processing, analysis, and the main statistical evaluations.
 
 - **`EVI_Trend.R`**: Script to compute EVI trends over time using a linear regression model on MODIS data.
 - **`TMF_AnnualObs.R`**: Handles the processing of Tropical Moist Forest (TMF) data to assess annual forest disruptions.
 - **`ShinyApp_EVI_AccDeg.R`**: A Shiny application designed for interactive exploration of EVI trends and forest degradation data.
-- **`PlotLine_EVI_Deg_area_km2.R`**: Script to plot the area of EVI trends and degraded areas over time.
 
 #### 2. **`plot_scripts` Directory**
 
 This directory contains scripts specifically designed for generating plots and calculating key statistics related to the research.
 
-- **`StackedBar_EVI_Deg_Calculation_km2.R`**: Creates stacked bar plots showing the area of different EVI trends and degradation classes over time.
 - **`Boxplot_TMF_DegPct__vGrid.R`**: Produces boxplots comparing the percentage of forest degradation against EVI trends.
+- **`StackedBar_EVI_Deg_Calculation_km2.R`**: Creates stacked bar plots showing the area of different EVI trends and degradation classes over time.
+- **`PlotLine_EVI_Deg_area_km2.R`**: Script to plot the area of EVI trends and degraded areas over time.
 - **`Histo_TMF_Deg_class.R`**: Generates histograms to visualize the distribution of forest degradation classes.
 - **`Plot_EVI_Savitzky.R`**: Applies the Savitzky-Golay filter to smooth the EVI data and plots the results.
 - **`Stats_MaskCalculation.R`**: Computes various statistics related to forest cover and degradation based on masking techniques.
@@ -74,7 +74,3 @@ This project is licensed under the **Creative Commons Attribution 4.0 Internatio
 ### Contact
 
 For any questions or further information, please contact **Lucas Pereira das Neves Souza Lima** at [your email here].
-
----
-
-This README provides an overview of the project, details about the repository's structure, and instructions on how to use the scripts and tools provided. It is essential for anyone looking to replicate the study or use its methods for further research.
