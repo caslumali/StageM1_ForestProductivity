@@ -235,8 +235,8 @@ for (i in 1:length(SITES)) {
     mutate(category = factor(category, levels = c("NoDeg_Area_Km2", "Deg_Area_Km2")))
   
   
-  acc_deg_periods <- c("deg_1990_1999", "deg_1990_2005", "deg_1990_2008", "deg_1990_2011", "deg_1990_2014", "deg_1990_2017", "deg_1990_2020")
-  acc_deg_labels <- c("1990 à 1999", "1990 à 2005", "1990 à 2008", "1990 à 2011", "1990 à 2014", "1990 à 2017", "1990 à 2020")
+  acc_deg_periods <- c("deg_1990_2005", "deg_1990_2008", "deg_1990_2011", "deg_1990_2014", "deg_1990_2017", "deg_1990_2020")
+  acc_deg_labels <- c("1990 à 2005", "1990 à 2008", "1990 à 2011", "1990 à 2014", "1990 à 2017", "1990 à 2020")
   stacked_bar_plot(acc_deg_plot_data, file.path(OUT_FOLDER, "Acc_deg_stacked_bar_plot.png"), "Surface de pixels présentant une certaine dégradation (accumulée)", acc_deg_periods, acc_deg_labels)
   
   tw_deg_plot_data <- tw_deg_stats_all %>%
