@@ -73,4 +73,4 @@ This project is licensed under the **Creative Commons Attribution 4.0 Internatio
 
 ### Contact
 
-For any questions or further information, please contact **Lucas Pereira das Neves Souza Lima** at [your email here].
+For any questions or further information, please contact **Lucas Lima** at [caslumali@gmail.com].
