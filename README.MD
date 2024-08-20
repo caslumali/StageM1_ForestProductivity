@@ -9,7 +9,7 @@ The full dissertation titled *"Productivité végétale et dégradation foresti�
 
 #### Overview
 
-This repository contains the complete set of scripts and tools used in the master's thesis project titled **"Forest Productivity and Degradation Monitoring: A Case Study in Paragominas within the TerrAmaz Project"** by **Lucas Pereira das Neves Souza Lima**. The project was conducted as part of the "Master 1 Géomatique" program at the Université de Toulouse, under the supervision of CIRAD (Centre de coopération Internationale en Recherche Agronomique pour le Développement).
+This repository contains the complete set of scripts and tools used in the master's thesis project titled *"Productivité végétale et dégradation forestière : Étude à Paragominas dans le cadre du projet TerrAmaz"* by **Lucas Pereira das Neves Souza Lima**. The project was conducted as part of the "Master 1 Géomatique" program at the Université de Toulouse, under the supervision of **Lilian Blanc** and **Julie Betbeder**, researchers in the *UR Forêt & Sociétés* at CIRAD (Centre de coopération Internationale en Recherche Agronomique pour le Développement).
 
 The study aimed to evaluate forest productivity in Amazonian territories using Enhanced Vegetation Index (EVI) data derived from MODIS satellite imagery. The project also compared these productivity trends with forest degradation data provided by the Joint Research Centre (JRC) of the European Commission.
 
